@@ -1,0 +1,5 @@
+.venv/
+assets/models/
+ready-to-post/**/*.mp4
+ready-to-post/**/*.wav
+.DS_Store

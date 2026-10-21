@@ -1,0 +1,26 @@
+{
+  "channel": "kidsmath", "id": "k001",
+  "title": "Learn to Add and Take Away with Apples! 🍎 | Easy Math for Kids",
+  "description": "Count along with Pebkin! In this video we learn that 2 + 2 = 4 and 3 - 1 = 2, using apples. Perfect for toddlers, preschool and kindergarten.",
+  "hashtags": ["mathforkids", "counting", "preschool", "learning"],
+  "voice": "af_heart", "speed": 0.88, "thumb_t": 26,
+  "segments": [
+    {"text": "Hi friends! I'm Pebkin!"},
+    {"text": "Let's do some math together!", "pause": 0.5},
+    {"text": "Here are two apples.", "scene": {"a": 2, "b": 2, "op": "+", "show": ["a"]}, "pause": 0.6},
+    {"text": "And here are two more apples.", "scene": {"a": 2, "b": 2, "op": "+", "show": ["a", "op", "b"]}, "pause": 0.6},
+    {"text": "Two apples, plus two apples.", "scene": {"a": 2, "b": 2, "op": "+", "show": ["a", "op", "b", "eq"]}, "pause": 0.4},
+    {"text": "How many apples is that? Let's count!", "pause": 0.5},
+    {"text": "One. Two. Three. Four!", "speed": 0.75, "scene": {"a": 2, "b": 2, "op": "+", "show": ["a", "op", "b", "eq", "count"]}, "pause": 0.5},
+    {"text": "Four! Two plus two equals four!", "scene": {"a": 2, "b": 2, "op": "+", "show": ["a", "op", "b", "eq", "count", "ans"]}, "pause": 0.4},
+    {"text": "Great job! You did it!", "pause": 0.8},
+    {"text": "Now let's try another one.", "scene": {}, "pause": 0.6},
+    {"text": "Here are three apples.", "scene": {"a": 3, "b": 1, "op": "-", "show": ["a"]}, "pause": 0.6},
+    {"text": "Oh no! One apple got eaten! Crunch!", "scene": {"a": 3, "b": 1, "op": "-", "show": ["a", "b"]}, "pause": 0.6},
+    {"text": "Three apples, take away one apple.", "scene": {"a": 3, "b": 1, "op": "-", "show": ["a", "b", "eq"]}, "pause": 0.4},
+    {"text": "How many are left? Let's count!", "pause": 0.5},
+    {"text": "One. Two!", "speed": 0.75, "scene": {"a": 3, "b": 1, "op": "-", "show": ["a", "b", "eq", "count"]}, "pause": 0.5},
+    {"text": "Two! Three take away one equals two!", "scene": {"a": 3, "b": 1, "op": "-", "show": ["a", "b", "eq", "count", "ans"]}, "pause": 0.4},
+    {"text": "You're a math star! See you next time, friends!"}
+  ]
+}

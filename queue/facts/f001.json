@@ -1,0 +1,21 @@
+{
+  "channel": "facts", "id": "f001",
+  "title": "5 useless facts you will never forget 🧠",
+  "tiktok_caption": "number 4 broke me",
+  "description": "Completely useless. Permanently stuck in your brain. Which one got you?",
+  "hashtags": ["facts", "uselessfacts", "didyouknow", "shorts"],
+  "voice": "am_eric", "speed": 1.15,
+  "segments": [
+    {"text": "Five facts that are completely useless, and you will remember them forever.", "label": "Useless facts", "big": "5"},
+    {"text": "Number one. Wombats poop cubes. Actual little cubes.", "label": "Fact #1", "big": "CUBES"},
+    {"text": "Scientists think it stops the poop from rolling away, because wombats use it to mark their territory."},
+    {"text": "Number two. A day on Venus is longer than a year on Venus.", "label": "Fact #2", "big": "243 DAYS"},
+    {"text": "It spins so slowly that one rotation takes two hundred and forty three Earth days, but one lap around the Sun only takes two hundred and twenty five."},
+    {"text": "Number three. Octopuses have three hearts.", "label": "Fact #3", "big": "3 HEARTS"},
+    {"text": "And their blood is blue."},
+    {"text": "Number four. Bananas are berries. Strawberries are not.", "label": "Fact #4", "big": "BERRY?"},
+    {"text": "Botanists said so, and nobody stopped them."},
+    {"text": "Number five. The national animal of Scotland is the unicorn.", "label": "Fact #5", "big": "UNICORN"},
+    {"text": "Which one broke your brain? Comment the number.", "label": "Your turn", "big": "1-5?"}
+  ]
+}

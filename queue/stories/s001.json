@@ -1,0 +1,23 @@
+{
+  "channel": "stories", "id": "s001",
+  "title": "My neighbor left ONE grape on my doorstep for 41 days 🍇",
+  "tiktok_caption": "Gary has been planning this for 6 weeks 🍇",
+  "description": "Day 42 changed everything. Follow for day 43.",
+  "hashtags": ["storytime", "funny", "neighbors", "shorts"],
+  "voice": "am_puck", "speed": 1.12,
+  "segments": [
+    {"text": "My neighbor has been leaving one single grape on my doorstep every morning for forty one days."},
+    {"text": "At first I thought it was an accident. Then it was a pattern. Then it was a threat."},
+    {"text": "On day twelve, I set up a camera."},
+    {"text": "The footage shows my neighbor Gary, sixty three years old, walking over at five a.m. in a full tuxedo."},
+    {"text": "He places the grape. He bows. He leaves."},
+    {"text": "On day thirty, I finally confronted him. I said, Gary, what is this?"},
+    {"text": "He looked me dead in the eyes and said, you will understand on day forty two."},
+    {"text": "So today was day forty two. I opened the door.", "pause": 0.5},
+    {"text": "No grape."},
+    {"text": "Just Gary. In the tuxedo. Holding a bottle of wine."},
+    {"text": "He said, every night I took the grape back. You never ate a single one. So I made wine."},
+    {"text": "This man has been fermenting my rejection for six weeks."},
+    {"text": "We drank it. It was honestly incredible. Follow for day forty three."}
+  ]
+}
